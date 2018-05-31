@@ -1,0 +1,2 @@
+all:
+	nasm shellcode.asm
